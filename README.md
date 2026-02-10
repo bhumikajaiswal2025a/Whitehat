@@ -7,4 +7,4 @@ hmmmm, i was introducted to kalilinux and cybersecutrity and ethical hacking by 
 well, i havent really heard bout many cybersecurity news recently but heres two things i recently came across
 I recently read about a major data breach where attackers exploited a vulnerability in a web application due to poor input validation, leading to user data exposure. This incident highlighted the importance of secure coding practices and regular security testing.
 I was reading about kevin mitnick recently who is a convicted hacker who has comitted multiple felony in the feild of cybersecurity and hacking sites and copying company data.
-## THANK YOU FOR READING THROUGH MY REPO
+### THANK YOU FOR READING THROUGH MY REPO
